@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codewitharshia
-- 👀 I’m interested in back-end development
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? check out zil.ink/codewitharshia
 
