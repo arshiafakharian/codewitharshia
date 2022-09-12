@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arshia
 - 👀 I’m interested in Back End Development
-- 🌱 I’m currently learning web development basic
+- 🌱 I’m currently learning web development basics
 - 📫 How to reach me? check out zil.ink/codewitharshia
 
 <!---
